@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-PedidoKafka.Worker-2c3f1dc9-1857-4839-9be8-1de7edb1191f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.14.2" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PedidoKafka.Application\PedidoKafka.Application.csproj" />
+    <ProjectReference Include="..\PedidoKafka.Infrastructure\PedidoKafka.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

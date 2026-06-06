@@ -1,0 +1,15 @@
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\bin\Debug\net10.0\PedidoKafka.Application.deps.json
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\bin\Debug\net10.0\PedidoKafka.Application.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\bin\Debug\net10.0\PedidoKafka.Application.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\bin\Debug\net10.0\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\bin\Debug\net10.0\PedidoKafka.Domain.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.csproj.AssemblyReference.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.AssemblyInfoInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.AssemblyInfo.cs
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.csproj.CoreCompileInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKa.91EC77FE.Up2Date
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\refint\PedidoKafka.Application.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\PedidoKafka.Application.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Application\obj\Debug\net10.0\ref\PedidoKafka.Application.dll

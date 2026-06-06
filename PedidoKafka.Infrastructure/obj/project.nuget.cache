@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vcc0/KlNuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saulz06\\Desktop\\Exafin\\PedidoKafka\\PedidoKafka.Infrastructure\\PedidoKafka.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saulz06\\.nuget\\packages\\confluent.kafka\\2.14.2\\confluent.kafka.2.14.2.nupkg.sha512",
+    "C:\\Users\\Saulz06\\.nuget\\packages\\librdkafka.redist\\2.14.2\\librdkafka.redist.2.14.2.nupkg.sha512"
+  ],
+  "logs": []
+}

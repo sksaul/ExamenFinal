@@ -1,0 +1,17 @@
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Infrastructure.deps.json
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Infrastructure.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Infrastructure.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Application.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Application.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\bin\Debug\net10.0\PedidoKafka.Domain.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.AssemblyInfo.cs
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKa.05D101C1.Up2Date
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\refint\PedidoKafka.Infrastructure.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\PedidoKafka.Infrastructure.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Infrastructure\obj\Debug\net10.0\ref\PedidoKafka.Infrastructure.dll

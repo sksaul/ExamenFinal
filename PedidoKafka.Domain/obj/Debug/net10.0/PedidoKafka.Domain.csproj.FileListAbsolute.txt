@@ -1,0 +1,11 @@
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\bin\Debug\net10.0\PedidoKafka.Domain.deps.json
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\bin\Debug\net10.0\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\bin\Debug\net10.0\PedidoKafka.Domain.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.AssemblyInfoInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.AssemblyInfo.cs
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\refint\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.pdb
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\ref\PedidoKafka.Domain.dll

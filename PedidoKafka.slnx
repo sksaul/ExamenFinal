@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PedidoKafka.Api/PedidoKafka.Api.csproj" />
+  <Project Path="PedidoKafka.Application/PedidoKafka.Application.csproj" />
+  <Project Path="PedidoKafka.Domain/PedidoKafka.Domain.csproj" />
+  <Project Path="PedidoKafka.Infrastructure/PedidoKafka.Infrastructure.csproj" />
+  <Project Path="PedidoKafka.Worker/PedidoKafka.Worker.csproj" />
+</Solution>
