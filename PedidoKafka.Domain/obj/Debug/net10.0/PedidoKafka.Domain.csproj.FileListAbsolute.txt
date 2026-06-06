@@ -9,3 +9,4 @@ C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0
 C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\refint\PedidoKafka.Domain.dll
 C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.pdb
 C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\ref\PedidoKafka.Domain.dll
+C:\Users\Saulz06\Desktop\Exafin\PedidoKafka\PedidoKafka.Domain\obj\Debug\net10.0\PedidoKafka.Domain.sourcelink.json

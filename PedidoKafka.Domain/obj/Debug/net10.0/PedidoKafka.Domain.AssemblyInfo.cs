@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoKafka.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+631581af5d5c5ee979ca068a6728b11a274c40c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoKafka.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoKafka.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
